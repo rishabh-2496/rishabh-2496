@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Rishabh 👨‍💻
 
-I'm a **Full-Stack Developer** with a passion for creating awesome web apps and tinkering with the latest tech. 🚀 From back-end APIs to front-end UI/UX, I’ve got you covered. 😎 Here’s a bit about what I do:
+I'm a **Full-Stack Developer** with a passion for creating awesome web apps and tinkering with the latest tech. 🚀 From back-end APIs to front-end, I’ve got you covered. 😎 Here’s a bit about what I do:
 
 ### 👨‍💻 What I’m Good At:
 - **JavaScript Ninja** ⚔️ - Experienced with the full ecosystem: **React**, **Redux**, **Node.js**, **Express**, **TypeScript**.

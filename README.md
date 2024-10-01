@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm [Your Name] 👨‍💻
+## 👋 Hey there! I'm Rishabh 👨‍💻
 
 I'm a **Full-Stack Developer** with a passion for creating awesome web apps and tinkering with the latest tech. 🚀 From back-end APIs to front-end UI/UX, I’ve got you covered. 😎 Here’s a bit about what I do:
 

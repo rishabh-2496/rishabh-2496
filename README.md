@@ -1,40 +1,19 @@
-## 👋 Hey there! I'm Rishabh 👨‍💻
+Hey there\! [cite\_start]👋 I'm Rishabh, a Backend-Focused Full-Stack Developer with over 4 years of experience building scalable, high-performance SaaS platforms[cite: 4, 6]. [cite\_start]I'm passionate about crafting efficient and reliable systems that truly make an impact[cite: 10].
 
-I'm a **Full-Stack Developer** with a passion for creating awesome web apps and tinkering with the latest tech. 🚀 From back-end APIs to front-end, I’ve got you covered. 😎 Here’s a bit about what I do:
+[cite\_start]My expertise lies in Node.js, Nest.JS, PostgreSQL, Kafka, and AWS, and I've also got a solid handle on the frontend with React.js and Next.js[cite: 8]. [cite\_start]I love tackling challenges that involve optimizing backend reliability, designing secure RESTful APIs, and generally making things run faster and smoother[cite: 9, 7].
 
-### 👨‍💻 What I’m Good At:
-- **JavaScript Ninja** ⚔️ - Experienced with the full ecosystem: **React**, **Redux**, **Node.js**, **Express**, **TypeScript**.
-- **Backend Wizardry** 🧙‍♂️ - Crafting scalable APIs and handling server-side logic with **Node.js** & **Express**.
-- **Frontend Master** 🎨 - Building smooth, responsive, and fast UIs that keep users happy.
-- **Database Management** 🗄️ - Connecting apps with databases to store all that important data.
-- **Docker Guru** 🐳 - Containerizing apps for smooth deployment and management.
-- **Git Lover** ❤️ - Version control pro, always keeping track of my code with Git.
+When I'm not coding, you can probably find me exploring new tech, playing video games, or just thinking about life in general.
 
-### 🧑‍💻 Secondary Skills:
-- **Python** 🐍 - Because who doesn't love some extra flexibility with another awesome language?
+**Here's a quick overview of my skills:**
 
-### ⚡ A Few More Things:
-- **Testing Enthusiast** 🧪 - Writing unit tests to make sure everything works as expected!
-- **Fast Learner** 🚀 - Always exploring new tech and improving my skills.
-- **Team Player** 🤝 - Love collaborating with others but can also go solo when needed.
+  * [cite\_start]**Frontend:** ⚛️ HTML5, CSS3, React JS, Redux, Next JS [cite: 12]
+  * [cite\_start]**Backend:** ☕️ Node.js, Express JS, Nest JS, Python, Django, Kafka, Nginx [cite: 13]
+  * [cite\_start]**Languages:** 💻 JavaScript (ES6), TypeScript, Python [cite: 13]
+  * [cite\_start]**Databases:** 💾 MySQL, Postgres, MongoDB [cite: 14]
+  * [cite\_start]**DevOps:** 🐳 Docker, Git, CI/CD Pipelines [cite: 18]
+  * [cite\_start]**Cloud:** ☁️ AWS (S3, EC2, Lambda, ECR) [cite: 18]
 
-### 🌟 Fun Facts:
-- I’m always looking for ways to make development more fun and creative. ✨
-- Love keeping up with the latest in tech, always ready to dive into something new. 🔥
+Feel free to explore my repositories and connect with me\! Let's build something amazing together.
 
-Let’s code something amazing together! 😄
-
-<!--
-**rishabh-2496/rishabh-2496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[cite\_start]📧 rishabkumar24@gmail.com [cite: 2]
+[cite\_start]💼 [linkedin.com/in/rishabh24choudhary](https://www.google.com/search?q=https://linkedin.com/in/rishabh24choudhary) [cite: 2]
